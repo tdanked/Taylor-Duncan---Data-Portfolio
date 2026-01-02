@@ -14,3 +14,45 @@ Python, Pandas, Numpy
 #### Results & Business Recommendation:
 
 #### Next Steps:
+
+
+## Exploratory Data Analysis (EDA)
+#### File Name:
+
+#### Business Problem:
+
+#### Methodology:
+
+#### Skills:
+
+#### Results & Business Recommendation:
+
+#### Next Steps:
+
+
+## Funnel Analysis
+#### File Name:
+
+#### Business Problem:
+
+#### Methodology:
+
+#### Skills:
+
+#### Results & Business Recommendation:
+
+#### Next Steps:
+
+
+## Full-Stack Project
+#### File Name:
+
+#### Business Problem:
+
+#### Methodology:
+
+#### Skills:
+
+#### Results & Business Recommendation:
+
+#### Next Steps:
