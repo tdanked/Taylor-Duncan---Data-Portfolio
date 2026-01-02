@@ -10,7 +10,7 @@ Copy of marketing_campaign_data_clean.ipynb
 #### Methodology:
 
 #### Skills:
-
+Python, Pandas, Numpy
 #### Results & Business Recommendation:
 
 #### Next Steps:
