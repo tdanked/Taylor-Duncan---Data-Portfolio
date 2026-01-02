@@ -7,8 +7,8 @@ This is my data portfolio for building my literacy in coding and turning data in
 Copy of marketing_campaign_data_clean.ipynb
 #### Business Problem:
 
-### Methodology:
+#### Methodology:
 
-### Skills:
+#### Skills:
 
-### Results & Business Recommendation:
+#### Results & Business Recommendation:
